@@ -2,9 +2,10 @@
 # To change this template file, choose Tools | Templates
 # and open the template in the editor.
 
-__author__ = "Harshita V"
+
 __date__ = "$7 Nov, 2015 2:07:30 AM$"
-__author__ = 'Ishan'
+__author__ = "Harshita V"
+
 import numpy as np
 import math
 from sets import Set
