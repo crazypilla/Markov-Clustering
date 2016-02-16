@@ -1,3 +1,9 @@
+Python with numpy package installed .Run on any IDE. We used Pycharm.
+Markov_clustering was used to generate the .clu files.
+Markov_With _Modularity was used to calculate modularity for the Question 2.1
+We used Pajek tool and hence the data from the Pajek.zip folder on Piazza.
+However, just to be sure, we have included the clu files for the old att, physics and yeast files, as well.
+
 # Markov-Clustering
  MCL  Algorithm
  
